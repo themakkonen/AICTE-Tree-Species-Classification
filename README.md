@@ -89,7 +89,7 @@ The model achieved high accuracy on the validation set and demonstrated strong p
 ## 📬 Contact
 
 **Author:** Rollakanti Harshith Reddy  
-**LinkedIn:** [linkedin.com/in/harshithreddy](https://www.linkedin.com/in/harshithreddy)  
+**LinkedIn:** https://www.linkedin.com/in/harshith-reddy-rollakanti-132494306/ 
 **Email:** harshithreddyrollakanti@gmail.com *(Replace with your email)*  
 
 ---
